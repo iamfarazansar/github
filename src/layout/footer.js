@@ -8,7 +8,7 @@ const Footer = () => {
       tag="footer"
       className="text-center bg-info text-white text-uppercase fixed-bottom"
     >
-      LCO Github Search App with Firebase
+      My Github Search App with Firebase
     </Container>
   );
 };
